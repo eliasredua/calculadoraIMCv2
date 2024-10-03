@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
             val resultado = peso / alturaQ2
 
         println("resultado: " + resultado)
-
         }
     }
 }
