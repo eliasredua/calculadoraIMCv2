@@ -31,7 +31,7 @@
             android:id="@+id/edt_peso"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Digite seu peso. ex:70.200"
+            android:hint="Digite seu peso. ex.: 70.200"
             android:inputType="numberDecimal"/>
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -47,7 +47,7 @@
             android:id="@+id/edt_altura"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Digite sua altura. ex: 1.70"
+            android:hint="Digite sua altura. ex.: 1.70"
             android:inputType="numberDecimal"/>
 
     </com.google.android.material.textfield.TextInputLayout>
